@@ -11,7 +11,7 @@ export const config = {
      
     // 信息配置
     // 所在省份
-    province: "南京",
+    province: "江苏",
     // 所在城市
     city: "南京",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
